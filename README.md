@@ -17,4 +17,5 @@
 - :vulcan_salute: [Git e GitHub](https://www.youtube.com/@cursoemvideo) → *Curso em Vídeo no YouTube.* 
 - :page_with_curl: [JavaScript](https://www.w3schools.com/js/default.asp) → *Guia prático no W3Schools.*
 - :scroll: [Python](https://docs.python.org/3/) → *Documentação oficial da linguagem.*
-- :mechanical_arm: [Java](https://www.udemy.com/course/java-curso-completo) → *Curso completo na Udemy.*
+- :mechanical_arm: [Java](https://www.udemy.com/course/java-curso-completo) → *Curso completo na Udemy.* [Oracle](https://docs.oracle.com/en/java/) → *Java Documentation*
+- :art: [HTML/CSS/JavaScript](https://www.youtube.com/@freecodecamp) → *freeCodeCamp*.[ Também em](https://www.youtube.com/@cursoemvideo/courses) → *Curso em Vídeo no YouTube.* 
